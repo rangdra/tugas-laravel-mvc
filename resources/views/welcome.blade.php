@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>SELAMAT DATANG! <?php echo $nama ?></h1>
+    <h1>Selamat Datang <?php echo $nama ?> !</h1>
     <h3>
         Terima kasih telah bergabung di Sanberbook. Social Media kita bersama!
     </h3>
